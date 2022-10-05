@@ -14,7 +14,7 @@
   </p>
 </div>
 
-## Features
+## Features (This version will work with discord.js v14 only)
 
 #### Completely modular commands, inhibitors, and listeners.
 
